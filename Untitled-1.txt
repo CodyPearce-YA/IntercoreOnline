@@ -1,0 +1,2 @@
+SELECT * FROM dbo.Storage;
+SELECT * FROM dbo.Storage_Locations
